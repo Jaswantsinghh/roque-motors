@@ -3,8 +3,8 @@
   "short_name": "Roque",
   "start_url": "about-us.html",
   "display": "standalone",
-  "background_color": "yellow",
-  "theme_color": "yellow",
+  "background_color": "#fff",
+  "theme_color": "#fff",
   "description": "Automobile Company App",
   "icons": [
     {
