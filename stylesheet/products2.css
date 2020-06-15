@@ -143,6 +143,7 @@ footer{
   }
   .scroll {
     padding: 10px;
+    padding-left: 40px;
     text-align: right;
   }
   body{
